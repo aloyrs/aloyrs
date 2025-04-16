@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aloysius</h1>
 <h3 align="center">Software Engineer from Singapore</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloyrs&label=Profile%20views&color=0e75b6&style=flat" alt="aloyrs" /> </p>
+<p align="center">
+  <img src="./code.gif" alt="Cool gif" />
+</p>
 
 - 🔭 I’m currently working at **DXC Technology**
 
